@@ -266,19 +266,45 @@ I'm building my technical foundation through academic learning, practical projec
 
 This section will be updated with verified certifications and achievements.
 
-<!--
-To add a certificate:
+---
 
-1. Create a folder named certificates.
-2. Upload your certificate PDF or image.
-3. Add a link below.
+<p align="center">
+  <b>Learning Today, Leading Tomorrow 🚀</b>
+</p>
 
-Example:
+<table>
+<tr>
+<td align="center" width="33%">
 
-<a href="./certificates/certificate-name.pdf">
-  <img src="./certificates/certificate-preview.png" width="250">
+### 🤖 AI for Business Professionals
+
+<a href="./certificates/AI%20for%20Business%20Professionals.pdf">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-8A4FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
--->
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Critical Thinking in the AI Era
+
+<a href="./certificates/Critical%20Thinking%20in%20the%20AI%20Era.pdf">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-8A4FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 Data Science & Analytics
+
+<a href="./certificates/Data%20Science%20%26%20Analytics.pdf">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-8A4FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
