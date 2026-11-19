@@ -1,4 +1,3 @@
-```markdown
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                 SRISHTI CHAUDHARY                      -->
 <!--              GITHUB PROFILE README                     -->
