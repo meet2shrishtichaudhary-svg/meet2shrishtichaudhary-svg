@@ -5,7 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1A1025,50:652B52,100:8A4FFF&text=SRISHTI%20CHAUDHARY&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20ML%20STUDENT%20%7C%20ASPIRING%20AI%20ENGINEER&descAlignY=58&animation=fadeIn" width="100%"/>
+<h1 align="center">✨ SRISHTI CHAUDHARY ✨</h1>
+
+<h3 align="center">AI & ML STUDENT | ASPIRING AI ENGINEER</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Srishti%20Chaudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Curiosity%20Into%20Code&descAlignY=60" width="100%" alt="Srishti Chaudhary Banner"/>
 
 <br/>
 
